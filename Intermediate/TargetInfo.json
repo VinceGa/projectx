@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectX",
+			"Path": "/Users/ext.vigao/Documents/Unreal Projects/ProjectX/Source/ProjectX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectXEditor",
+			"Path": "/Users/ext.vigao/Documents/Unreal Projects/ProjectX/Source/ProjectXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

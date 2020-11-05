@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/ext.vigao/Documents/Unreal Projects/ProjectX/Source/ProjectX/ProjectX.Build.cs",
+		"/Users/ext.vigao/Documents/Unreal Projects/ProjectX/Source/ProjectX.Target.cs",
+		"/Users/ext.vigao/Documents/Unreal Projects/ProjectX/Source/ProjectXEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
